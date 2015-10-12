@@ -2,16 +2,16 @@
 "%d days ago" = "%d days ago";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d hours ago";
+"%d hours ago" = "%d hrs ago";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minutes ago";
+"%d minutes ago" = "%d mins ago";
 
 /* No comment provided by engineer. */
 "%d months ago" = "%d months ago";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d seconds ago";
+"%d seconds ago" = "%d secs ago";
 
 /* No comment provided by engineer. */
 "%d weeks ago" = "%d weeks ago";
@@ -20,10 +20,10 @@
 "%d years ago" = "%d years ago";
 
 /* No comment provided by engineer. */
-"A minute ago" = "A minute ago";
+"A minute ago" = "A min ago";
 
 /* No comment provided by engineer. */
-"An hour ago" = "An hour ago";
+"An hour ago" = "An hr ago";
 
 /* No comment provided by engineer. */
 "Just now" = "Just now";
@@ -53,13 +53,13 @@
 "1 day ago" = "1 day ago";
 
 /* No comment provided by engineer. */
-"1 hour ago" = "1 hour ago";
+"1 hour ago" = "1 hr ago";
 
 /* No comment provided by engineer. */
-"1 minute ago" = "1 minute ago";
+"1 minute ago" = "1 min ago";
 
 /* No comment provided by engineer. */
-"1 second ago" = "1 second ago";
+"1 second ago" = "1 sec ago";
 
 /* No comment provided by engineer. */
 "This morning" = "This morning";
