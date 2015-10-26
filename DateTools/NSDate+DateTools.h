@@ -63,6 +63,7 @@ NSLocalizedStringFromTableInBundle(key, @"DateTools", [NSBundle bundleWithPath:[
 - (BOOL)isTomorrow;
 -(BOOL)isYesterday;
 - (BOOL)isWeekend;
+- (BOOL)isThisWeek;
 -(BOOL)isSameDay:(NSDate *)date;
 + (BOOL)isSameDay:(NSDate *)date asDate:(NSDate *)compareDate;
 
