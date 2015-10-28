@@ -518,7 +518,7 @@ static NSCalendar *implicitCalendar = nil;
                                                fromDate:self
                                                  toDate:[NSDate date]
                                                 options:0];
-    if (components.weekOfYear == 1) {
+    if (components.weekOfYear == 0) {
         return YES;
     } else {
         return NO;
