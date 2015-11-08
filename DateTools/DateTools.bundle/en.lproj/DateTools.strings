@@ -20,10 +20,10 @@
 "%d years ago" = "%d years ago";
 
 /* No comment provided by engineer. */
-"A minute ago" = "A min ago";
+"A minute ago" = "1 min ago";
 
 /* No comment provided by engineer. */
-"An hour ago" = "An hr ago";
+"An hour ago" = "1 hr ago";
 
 /* No comment provided by engineer. */
 "Just now" = "Just now";
